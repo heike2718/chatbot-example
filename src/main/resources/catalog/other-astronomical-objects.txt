@@ -1,0 +1,11 @@
+An asteroid is a relatively small, rocky/metallic object usually orbiting a star.
+
+A comet is a relatively small, icy object usually orbiting a star. Asteroids, comets, and miscellaneous small/irregular objects and “dust” are often categorized as Minor Bodies.
+
+A Stellar System is a star and other objects such as planets and/or other stars and other materials that orbit it.
+
+A galaxy is a large island of stars, a few hundred million to over a trillion stars.
+
+A Galactic Cluster is a collection of galaxies gravitationally bound.
+
+A Supercluster is a region where galaxies and galactic clusters are tightly packed.
