@@ -13,3 +13,8 @@ curl -X POST -H 'Content-Type: application/json' -i http://localhost:6543/chatbo
 "message": "What is a planet?"
 }'
 ```
+
+
+## Wie es arbeitet
+
+das Beispiel arbeitet 
